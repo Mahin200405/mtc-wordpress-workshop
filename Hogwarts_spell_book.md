@@ -20,7 +20,7 @@ To simplify the page design, install a page builder plugin. Elementor is recomme
 
 ## Building the Spell Book Page
 
-Create a new page in WordPress and title it "Hogwarts Spell Book." If using Elementor, open the page with the Elementor editor; otherwise, use the Block Editor.
+Create a new page in WordPress and title it "Hogwarts Spell Book." If using Elementor, open the page with the Elementor editor; otherwise, use the default Block Editor.
 
 The content structure for each spell should include:
 - A heading for the Spell Name
@@ -32,6 +32,14 @@ Example entry:
 **Spell Name:** Expelliarmus  
 **Type:** Charm  
 **Description:** Disarms the opponent by knocking their wand out of their hand.
+
+**Spell Name:** Lumos  
+**Type:** Charm  
+**Description:** Produces light from the tip of the wand.
+
+**Spell Name:** Wingardium Leviosa  
+**Type:** Charm  
+**Description:** Levitates objects into the air.
 
 Continue listing spells using a consistent format throughout the page. Use visual dividers or icons if desired to enhance readability.
 
@@ -51,13 +59,49 @@ Once the page is built, review it on both desktop and mobile devices to ensure i
 
 ---
 
+## Hosting the Website
+
+There are two approaches for hosting the Hogwarts Spell Book:
+
+### Option 1: Free Hosting on WordPress.com
+
+Participants can create a free account on [WordPress.com](https://wordpress.com/) and build the project there without any cost. The site will have a `.wordpress.com` subdomain (e.g., `hogwartsspellbook.wordpress.com`).
+
+Steps to set up on WordPress.com:
+1. Go to [wordpress.com](https://wordpress.com/) and click on "Start your website."
+2. Create a free account using an email address.
+3. Choose a free plan when prompted.
+4. Select a site name and free domain (e.g., `hogwartsspellbook.wordpress.com`).
+5. Access the WordPress dashboard and create a new page.
+6. Build the Hogwarts Spell Book page following the instructions above.
+7. Publish the page when ready.
+
+This option is recommended for this exercise to avoid any hosting costs.
+
+### Option 2: Paid Hosting with Custom Domain
+
+For participants who want a professional setup with their own domain name (e.g., `hogwartsspellbook.com`), paid hosting is required.
+
+Steps for paid hosting:
+1. Purchase a hosting plan from providers like Bluehost, Hostinger, or SiteGround.
+2. Register a domain name during checkout or separately through a domain registrar.
+3. Install WordPress via the hosting provider’s control panel (most offer one-click installation).
+4. Log in to the WordPress Admin Dashboard.
+5. Create and build the Hogwarts Spell Book page as described earlier.
+6. Set up an SSL certificate (usually provided free by hosts) to enable HTTPS.
+7. Configure a backup plugin to protect the site content.
+
+Paid hosting typically costs around $2–$5 per month for hosting plus around $10–$15 per year for a domain name.
+
+---
+
 ## Enhancements
 
 Potential future improvements include:
 - Categorizing spells by type or alphabetically.
 - Adding a Table of Contents linked to different sections.
 - Implementing a basic search feature if the number of spells becomes large.
-- Adding gentle animation effects to headings or background elements.
+- Adding subtle animation effects to headings or background elements.
 
 ---
 
