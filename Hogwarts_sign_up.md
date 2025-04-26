@@ -1,18 +1,18 @@
 
-# 🧙‍♂️ Hogwarts Sign Up Form (WordPress Project)
+# Hogwarts Sign Up Form (WordPress Workshop)
 
 A magical "Hogwarts Sign Up" form built using WordPress and WPForms.
 
 ---
 
-## ✨ Project Overview
+## Project Overview
 
 This project creates a fun and simple sign-up form for students who wish to enroll at Hogwarts School of Witchcraft and Wizardry.  
 Built entirely in WordPress using the free **WPForms** plugin.
 
 ---
 
-## 🏗️ How to Build This
+## How to Build This
 
 ### 1. Set up WordPress
 
@@ -58,7 +58,7 @@ Built entirely in WordPress using the free **WPForms** plugin.
 
 ---
 
-## 🧪 Testing
+## Testing
 
 - Open your "Hogwarts Sign-Up" page.
 - Fill out the form and submit.
@@ -66,7 +66,7 @@ Built entirely in WordPress using the free **WPForms** plugin.
 
 ---
 
-## 🌟 Bonus Ideas
+## Additional
 
 - Add Confirmation Messages like:  
   > "Your owl is on the way! Welcome to Hogwarts!"
@@ -75,16 +75,6 @@ Built entirely in WordPress using the free **WPForms** plugin.
 
 ---
 
-## 📋 Requirements
 
-- WordPress (latest version)
-- WPForms Plugin (free version is enough)
-- Basic WordPress knowledge (no coding needed)
 
----
 
-## 📜 License
-
-This project is for educational/fun purposes only and is not affiliated with J.K. Rowling or the official Harry Potter franchise.
-
----
