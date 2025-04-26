@@ -84,12 +84,5 @@ Use headings, text blocks, and dividers to organize spells clearly.
 
 ---
 
-## Requirements
-
-- WordPress (latest stable version)
-- Elementor Page Builder (optional)
-- Basic familiarity with WordPress page creation and styling
-
----
 
 
