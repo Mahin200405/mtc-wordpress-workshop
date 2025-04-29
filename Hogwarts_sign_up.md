@@ -25,6 +25,8 @@ Built entirely in WordPress using the free **WPForms** plugin.
 - Go to `Plugins` → `Add New`.
 - Search for **WPForms**.
 - Install and Activate the plugin.
+- ![image](https://github.com/user-attachments/assets/c9a049c7-0d5c-421a-a035-666cb58cd358)
+
 
 ### 3. Create the Hogwarts Sign Up Form
 
