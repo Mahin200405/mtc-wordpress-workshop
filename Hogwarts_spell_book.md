@@ -12,7 +12,16 @@ The Hogwarts Spell Book is designed as a static WordPress page where spells are 
 
 ## Installation and Setup
 
-First, install WordPress locally (using tools like [LocalWP](https://localwp.com/) or XAMPP) or on a live hosting provider such as Bluehost or Hostinger. Once WordPress is ready, log in to the WordPress Admin Dashboard.
+- Head on to [WordPress](www.wordpress.com) and Get Started!
+- Create an account on wordpress
+- Create a domain name of your choice (select the freely available domains) and choose a free plan
+- This will create the wordpress site automatically and create a dashboard like this
+
+![Screenshot 2025-04-30 011657](https://github.com/user-attachments/assets/193143e8-a0f3-4046-a676-ff94b930e492)
+
+- Add additional information about your website, like creating a name and tagline for your website by clicking Settings
+- Once satisfied, click Pages -> Add Page
+- You'll now see an empty page, this is your canvas. Start Building!!
 
 To simplify the page design, install a page builder plugin. Elementor is recommended but not required. To install Elementor, navigate to the Plugins section, search for "Elementor," and activate it after installation.
 
