@@ -23,18 +23,19 @@ The Hogwarts Spell Book is designed as a static WordPress page where spells are 
 - Once satisfied, click Pages -> Add Page
 - You'll now see an empty page, this is your canvas. Start Building!!
 
-To simplify the page design, install a page builder plugin. Elementor is recommended but not required. To install Elementor, navigate to the Plugins section, search for "Elementor," and activate it after installation.
-
 ---
 
 ## Building the Spell Book Page
 
-Create a new page in WordPress and title it "Hogwarts Spell Book." If using Elementor, open the page with the Elementor editor; otherwise, use the default Block Editor.
+Create a new page in WordPress and title it "Hogwarts Spell Book." Use the default Block Editor to edit your page the way you like
 
 The content structure for each spell should include:
 - A heading for the Spell Name
 - A labeled field for the Spell Type (such as Charm, Curse, Hex, etc.)
 - A paragraph describing the spell’s function
+You could also include
+- Image blocks or Icons for decoration
+- Columns and Groups for layout
 
 Example entry:
 
