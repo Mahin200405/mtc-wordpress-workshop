@@ -18,6 +18,7 @@ Built entirely in WordPress using the free **WPForms** plugin.
 
 - Install WordPress locally (LocalWP, XAMPP) or use a live host (Bluehost, Hostinger, etc.).
 - Log into your WordPress Admin Dashboard.
+![image](https://github.com/user-attachments/assets/c13fd235-b719-4bec-98c5-66357f60c3db)
 
 ### 2. Install WPForms Plugin
 
