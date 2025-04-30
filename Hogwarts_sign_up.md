@@ -29,13 +29,20 @@ This project creates an interactive and visually magical Hogwarts sign-up page u
 4. Choose “Preferred” settings and finish the setup.
 5. Once done, click **“WP Admin”** to open your local WordPress Dashboard.
 
+![image](https://github.com/user-attachments/assets/1f61e97a-6d65-47ad-bbfa-8a2e4a8e057b)
+
+
 ---
 
 ### 2. Install Elementor
 
 1. In the WordPress dashboard, go to **Plugins → Add New**.
-2. Search for **Elementor Website Builder**.
-3. Click **Install** and then **Activate**.
+![image](https://github.com/user-attachments/assets/113a2206-8bc1-40c6-aa2e-751b8f441eac)
+
+3. Search for **Elementor Website Builder**.
+![image](https://github.com/user-attachments/assets/a7d696bb-f6f8-4f37-8acd-47408b8ad1d4)
+
+5. Click **Install** and then **Activate**.
 
 ---
 
@@ -43,13 +50,22 @@ This project creates an interactive and visually magical Hogwarts sign-up page u
 
 1. Go to [Google Forms](https://forms.google.com) → Create a new form.
 2. Title: `Hogwarts Sign-Up Form`
-3. Add the following fields:
-   - Name (Short Answer)
-   - Email
-   - Dropdown: Choose Your House (Gryffindor, Ravenclaw, Hufflepuff, Slytherin)
-   - Paragraph: Why do you want to join Hogwarts?
-   - Checkbox: Accept Hogwarts Code of Conduct
-4. Customize form appearance (colors, fonts).
+3. Add the following magical fields:
+  a. **Name** (Short Answer): _“What name shall appear on your Hogwarts acceptance letter?”_
+  b. **Email Address** (Short Answer): _“Where can we send your owl with the acceptance letter?”_
+  c. **Dropdown** – _“Choose Your House”_:
+     - Gryffindor
+     - Ravenclaw
+     - Hufflepuff
+     - Slytherin
+  d. **Paragraph** – _“Why do you want to join Hogwarts?”_
+  e. **Checkbox** – _“I solemnly swear that I am up to no good and I accept the Hogwarts Code of Conduct.”_
+
+4. Customize the theme:
+  - Use mystical colors (deep purple, midnight blue)
+  - Add a magical background (e.g., stars, parchment)
+  - Choose a decorative font
+
 5. Click **Send → Embed (< >)** → Copy the iframe embed code.
 
 ---
@@ -57,16 +73,20 @@ This project creates an interactive and visually magical Hogwarts sign-up page u
 ### 4. Build the Page with Elementor
 
 1. In WordPress, go to **Pages → Add New** → Title it: `Hogwarts Sign-Up`
-2. Click **Edit with Elementor**
-3. Add the following widgets:
+![image](https://github.com/user-attachments/assets/2c2d16a2-ff13-436a-a6cd-e79811de36e3)
+
+3. Click **Edit with Elementor**
+![image](https://github.com/user-attachments/assets/3fcb05bf-be05-48b8-906d-e672f16fe43a)
+
+5. Add the following widgets:
    - **Heading**: `Welcome to Hogwarts`
    - **Text Editor**: Add a magical intro
    - **HTML**: Paste your Google Form embed code here
-4. Style the page:
+6. Style the page:
    - Add a background image (e.g., Hogwarts castle, night sky)
    - Use magical fonts (like Cormorant, Cinzel)
    - Set house-themed button colors
-5. Click **Publish** when you're happy with the design.
+7. Click **Publish** when you're happy with the design.
 
 ---
 
