@@ -48,25 +48,26 @@ This project creates an interactive and visually magical Hogwarts sign-up page u
 
 ### 3. Create the Google Form
 
-1. Go to [Google Forms](https://forms.google.com) → Create a new form.
-2. Title: `Hogwarts Sign-Up Form`
-3. Add the following magical fields:
-  a. **Name** (Short Answer): _“What name shall appear on your Hogwarts acceptance letter?”_
-  b. **Email Address** (Short Answer): _“Where can we send your owl with the acceptance letter?”_
-  c. **Dropdown** – _“Choose Your House”_:
+- Go to [Google Forms](https://forms.google.com) and create a new form titled:
+  **"Hogwarts School of Witchcraft and Wizardry – Student Admission Form"**
+
+- Add the following magical fields:
+  1. **Name** (Short Answer): _“What name shall appear on your Hogwarts acceptance letter?”_
+  2. **Email Address** (Short Answer): _“Where can we send your owl with the acceptance letter?”_
+  3. **Dropdown** – _“Choose Your House”_:
      - Gryffindor
      - Ravenclaw
      - Hufflepuff
      - Slytherin
-  d. **Paragraph** – _“Why do you want to join Hogwarts?”_
-  e. **Checkbox** – _“I solemnly swear that I am up to no good and I accept the Hogwarts Code of Conduct.”_
+  4. **Paragraph** – _“Why do you want to join Hogwarts?”_
+  5. **Checkbox** – _“I solemnly swear that I am up to no good and I accept the Hogwarts Code of Conduct.”_
 
-4. Customize the theme:
+- Customize the theme:
   - Use mystical colors (deep purple, midnight blue)
   - Add a magical background (e.g., stars, parchment)
   - Choose a decorative font
-
-5. Click **Send → Embed (< >)** → Copy the iframe embed code.
+    
+- Click **Send → Embed (< >)** → Copy the HTML embed code.
 
 ---
 
